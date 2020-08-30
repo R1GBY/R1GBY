@@ -1,7 +1,4 @@
 
-<!--
-**R1GBY/R1GBY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi! I am a computer engineering student at Marmara University. I have an interest on front-end development and deep learning. I like reading books and talking about history. I am trusting my entrepreneurship skills.
 
 - 🌱 I’m currently learning web development skills.

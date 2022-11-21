@@ -10,8 +10,9 @@ I am a Web Developer and Artificial Intelligence Enthusiast
 *   ✉️  You can contact me at [umutardakapan@gmail.com](mailto:umutardakapan@gmail.com)
 *   🚀  I'm currently working on [Renault MAİS A.Ş.](http://renault.com.tr/)
 *   🤝  I'm open to collaborating on Computer Vision Projects, Web Apps
-*   ⚡  I have a big passion about RTS games and Fantasy Fiction Literacy.<a href="https://www.github.com/R1GBY" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/R1GBY?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+*   ⚡  I have a big passion about RTS games and Fantasy Fiction Literacy.
+<a href="https://www.github.com/R1GBY" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/R1GBY?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -22,12 +23,8 @@ I am a Web Developer and Artificial Intelligence Enthusiast
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
+</p>### Socials
+<p align="left">
                           
                       <a href="https://www.github.com/R1GBY" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
                           

@@ -8,7 +8,7 @@ I am a Web Developer and Artificial Intelligence Enthusiast
 
 * 🌍  I'm based in Istanbul, Turkey
 * ✉️  You can contact me at [umutardakapan@gmail.com](mailto:umutardakapan@gmail.com)
-* 🚀  I'm ex-employer on [Renault MAİS A.Ş.](http://renault.com.tr/)
+* 🚀  I'm ex-employer on [Renault MAİS A.Ş.](http://renault.com.tr/), currently working on [Akbank T.A.Ş.]([http://renault.com.tr/](https://www.akbank.com/tr-tr/sayfalar/default.aspx))
 * 🤝  I'm open to collaborating on Computer Vision Projects, Web Apps
 * ⚡  I have a big passion about RTS games and Fantasy Fiction Literacy.
 

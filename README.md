@@ -1,5 +1,5 @@
 
-Hi 👋 My name is Umut Arda Kapan I am a computer engineering student at Marmara University. I have an interest on Game Programming and Deep Learning. I like reading books and talking about history. I am trusting my entrepreneurship skills.
+Hi 👋 My name is Umut Arda Kapan I am a computer engineer at Akbank T.A.Ş. 
 
 ================================
 

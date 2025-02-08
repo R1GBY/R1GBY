@@ -3,7 +3,7 @@ Hi 👋 My name is Umut Arda Kapan I am a computer engineer at Akbank T.A.Ş.
 
 ================================
 
-I am a Web Developer and Artificial Intelligence Enthusiast
+I am a Web Developer
 -----------------------------------------------------------
 
 * 🌍  I'm based in Istanbul, Turkey
